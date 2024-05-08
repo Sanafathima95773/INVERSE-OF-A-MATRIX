@@ -20,7 +20,7 @@ print result
 
 
 ## Output:
-![Screenshot 2024-03-11 162513](https://github.com/Sanafathima95773/INVERSE-OF-A-MATRIX/assets/147084627/c47a0957-7d2b-46b7-bab7-5b8e476605fa)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
